@@ -10,6 +10,7 @@
 
 | Employer | Job Description |
 | -------- | --------------- |
-| California Life Sciences |  * Wrote Newsletter * Tracked Legislation * Coordinated Advocacy Efforts |
-| CA State Assembly | * Staffed Bills * Analyzed Legislation  * Provided Vote Recommendations |
-| The California Aggie |* Wrote Weekly Articles * Covered Campus News * Developed Story Ideas |
+| California Life Sciences | *  Wrote Newsletter <p> *  Tracked Legislation <p> * Coordinated Advocacy Efforts |
+| CA State Assembly | * Staffed Bills <p> * Analyzed Legislation <p> *  Provided Vote Recommendations |
+| The California Aggie | *  Wrote Weekly Articles <p> * Covered Campus News <p> * Developed Story Ideas |
+  
